@@ -1,11 +1,11 @@
-# 🔧 FinetuneForge
+# FinetuneForge
 
 A curated collection of **fine-tuning strategies for LLMs and GenAI models**, built for experimentation, benchmarking, and extensibility.  
 This repo brings together multiple approaches — from classical distillation to cutting-edge RLHF — with modular code and custom loss functions.
 
 ---
 
-## 📌 Included Approaches
+## Included Approaches
 
 - **Knowledge Distillation**: Compress large models into smaller, efficient ones.
 - **Prompt Tuning**: Lightweight adaptation via soft prompts.
@@ -18,7 +18,7 @@ This repo brings together multiple approaches — from classical distillation to
 
 ---
 
-## 🎯 Goals
+## Goals
 - Provide **minimal, reproducible examples** for each fine-tuning method.
 - Benchmark trade-offs: latency, throughput, quality.
 - Enable **custom loss functions** for structured outputs (e.g., JSON).
@@ -26,4 +26,4 @@ This repo brings together multiple approaches — from classical distillation to
 
 ---
 
-## 🛠️ Structure
+## Structure
